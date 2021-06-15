@@ -1,0 +1,78 @@
+/* .container-fluid {
+  background-color: #6c2eb9;
+  height: 5rem;
+  margin: 10px;
+} */
+
+/* .container {
+  background-color: rgb(163, 34, 146);
+  height: 5rem;
+} */
+
+/* .row {
+  background-color: #ff9232;
+  height: 4.7rem;
+}
+
+[class*="col-"] {
+  background-color: #00c3aa;
+  height: 4.2rem;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  margin: 10px;
+} */
+/* .container {
+  background: grey;
+} */
+
+/* .card-body {
+  background-color: rgb(130, 130, 182);
+  height: 5rem;
+  margin: 10px;
+} */
+
+.sign-in {
+  background-color: #e6f2ff;
+}
+
+.container.signIn-container {
+  margin-top: 8%;
+}
+
+.card-body.signs {
+  padding: 40px 0px 20px;
+  background-color: #f4f4f4;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.img-fluid.cardImage {
+  padding: 0 2rem 2rem;
+  margin: auto;
+  display: block;
+  width: 40%;
+}
+
+.cardInput {
+  max-width: 350px;
+  margin: auto;
+}
+
+.boxSignin {
+  margin: auto;
+  display: block;
+}
+
+.btn.cardButton {
+  margin-bottom: 1.2rem;
+}
+
+.form-check.cardCheckBox {
+  margin-left: 8rem;
+}
+
+.createAccount {
+  text-align: center;
+  display: block;
+  margin-top: 1.2rem;
+}
